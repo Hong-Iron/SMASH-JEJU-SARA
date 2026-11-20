@@ -1,0 +1,34 @@
+{
+ "region": "제주 제주시 화북동",
+ "nameEn": "Jeju National University Sara Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 191,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "JEJU",
+   "campus": "제주대학교 아라캠퍼스",
+   "km": 6.7
+  },
+  {
+   "code": "SEHAN",
+   "campus": "세한대학교 영암캠퍼스",
+   "km": 137.3
+  },
+  {
+   "code": "MMU",
+   "campus": "국립목포해양대학교",
+   "km": 143.3
+  },
+  {
+   "code": "MSU",
+   "campus": "목포과학대학교",
+   "km": 144.3
+  },
+  {
+   "code": "MNU",
+   "campus": "국립목포대학교 도림캠퍼스",
+   "km": 155.5
+  }
+ ]
+}
